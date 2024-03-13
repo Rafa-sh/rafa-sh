@@ -1,10 +1,10 @@
-Hi 👋 My name is Rafa
+Hi 👋 I'm Rafa
 =====================
 
 Web developer and linux enthusiast
 ----------------------------------
 
-* 🌍  I'm based in Spain
+* 🥘  I'm in Spain
 * ✉️  You can contact me at [rafa@aetherdocks.xyz](mailto:rafa@aetherdocks.xyz)
 
 ### Skills
