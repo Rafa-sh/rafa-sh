@@ -6,7 +6,8 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Full Stack Developer at Energétikos<br>- 🥘  I'm in Spain</p>
+- 🔭 I’m working as Full Stack Developer at [Energétikos](https://www.energetikos.com/)
+- 🥘  I'm in Spain
 
 ###
 
