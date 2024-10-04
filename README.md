@@ -7,7 +7,7 @@
 ###
 
 - 🔭 I’m working as Full Stack Developer at [Energétikos](https://www.energetikos.com/)
-- 🥘  I'm in Spain
+- 🥘  I live in Spain
 
 ###
 
