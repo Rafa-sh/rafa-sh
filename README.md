@@ -13,6 +13,8 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
+I have worked with these technologies in projects in the past  
+
 ###
 
 <div align="center">
