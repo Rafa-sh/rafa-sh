@@ -13,7 +13,7 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-I have worked with these technologies in professional and/or personal projects in the past.
+I have worked with these technologies in professional and/or personal projects in the past
 
 ###
 
